@@ -1,4 +1,4 @@
-# CourseraGettingandCleaningassignment
+# Coursera Getting and Cleaning Assignment
 The run_analysis.R does the following Job.
 
 1. Download the data file if it does not already exist in the working directory
@@ -12,4 +12,4 @@ The run_analysis.R does the following Job.
 9. Converts the  activity and subject columns into factors
 10. Melt data frame with id vector subject and activity
 11. Cast molten data frame into a tidy dataset that consists of the average (mean) value of each variable for each subject and activity pair.
-12. Write data to 'tidy.txt' file
+12. Write data to 'tidydata.txt' file
